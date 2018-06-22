@@ -1,0 +1,65 @@
+.wrapper {
+  display: flex;
+}
+
+.wrapper > div {
+  font-size: 4vh;
+  color: white;
+  margin: .1em;
+  padding: .3em;
+  border-radius: 3px;
+  flex: 1;
+}
+
+#A {
+  background-image: url("https://image.ibb.co/fQYVAT/lsmm_desktop_accordion_go_rogue.jpg");
+}
+
+#B {
+  background-image: url("https://image.ibb.co/mCU94o/ls_metallicmattelsmm_desktop_accordion_ego_1.jpg");
+}
+
+#C {
+  background-image: url("https://preview.ibb.co/cYURjo/lsmm_desktop_accordion_biker_babe.jpg");
+}
+
+#D {
+  background-image: url("https://image.ibb.co/iPZFc8/lsmm_desktop_accordion_modern_maven.jpg");
+}
+
+#E {
+  background-image: url("https://image.ibb.co/huJac8/lsmm_desktop_accordion_pure_society.jpg");
+}
+
+#F {
+  background-image: url("https://image.ibb.co/jWwiVT/lsmm_desktop_accordion_buzzkill.jpg");
+}
+
+#G {
+  background-image: url("https://image.ibb.co/mX0cqT/lsmm_desktop_accordion_acme.jpg");
+}
+
+#H {
+  background-image: url("https://image.ibb.co/htSe4o/lsmm_desktop_accordion_bella.jpg");
+}
+
+#I {
+  background-image: url("https://image.ibb.co/dMLox8/lsmm_desktop_accordion_exposed.jpg");
+}
+
+#J {
+  background-image: url("https://image.ibb.co/cM9gH8/lsmm_desktop_accordion_mauve_mist.jpg");
+}
+
+#K {
+  background-image: url("https://preview.ibb.co/fUegH8/lsmm_desktop_accordion_new_era.jpg");
+}
+
+#L {
+  background-image: url("https://image.ibb.co/d9z3VT/lsmm_desktop_accordion_neat_nude.jpg");
+}
+
+img {
+  width: 100%;
+  border-radius: 15px;
+}
